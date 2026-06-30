@@ -1,29 +1,32 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pooyan013&label=Profile%20views&color=green&style=flat" alt="Pooyan013" /> </p>
+# Hi 👋, I'm Pooyan013
 
-<h1 align="center">Hi 👋, I'm Hossein Ahmadi</h1>
-<h3 align="center">Backend Developer | GIS Engineer | Geospatial AI Enthusiast</h3>
+### Backend Developer | GIS Engineer | Geospatial AI Enthusiast
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pooyan013&theme=vue" alt="Pooyan013" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pooyan013&label=Profile views&color=0e75b6&style=flat" alt="Pooyan013" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pooyan013" alt="Pooyan013" /></a> </p>
 
 - 🔭 I'm currently working on **Web GIS applications, geospatial databases with PostGIS, and explainable AI for air quality modeling.**
+
 - 🌱 I'm currently learning **Graph Neural Networks, and advanced geospatial analytics.**
+
 - 👯 I'm looking to collaborate on **Open-source Web GIS projects, geospatial AI research, and spatial data engineering**
-- 💬 Ask me about **Python, Django, FastAPI, GIS, PostGIS, Remote Sensing, and Web GIS development.**
-- 📫 How to reach me **hopoah1221@gmail.com**
+
+- 📫 How to reach me **t.me/Pooyan013**
+
 - ⚡ Fun fact **My favorite projects are the ones where GIS, AI, and software engineering meet.**
-- 😄 Pronouns: **he/him**
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pooyan013&theme=vue&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" /><br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pooyan013&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400" alt="Top Languages" /><br/>
-<img align="center" src="https://streak-stats.demolab.com/?user=Pooyan013&theme=vue&hide_border=false&cache_seconds=86400" alt="GitHub Streak" /><br/>
+<a href="https://github.com/Pooyan013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Pooyan013" height="30" width="40" /></a>
 </p>
 
-<br />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/chartjs" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rabbitMQ" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a></p>
 
-<p align="center">
-  <a href="https://profile-crest.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Generated%20with-ProfileCrest-10b981?style=for-the-badge&logo=github&logoColor=white" alt="ProfileCrest" />
-  </a>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pooyan013&show_icons=true&locale=en&layout=compact" alt="Pooyan013" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pooyan013&show_icons=true&locale=en" alt="Pooyan013" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pooyan013&" alt="Pooyan013" /></p>
+
