@@ -1,32 +1,90 @@
-# Hi 👋, I'm Pooyan013
+# Hi, I'm Pooyan 👋
 
-### Backend Developer | GIS Engineer | Geospatial AI Enthusiast
+### Geospatial ML Engineer | GIS Engineer × Backend Developer × Explainable AI
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pooyan013&label=Profile views&color=0e75b6&style=flat" alt="Pooyan013" /> </p>
+I work at the intersection of **geospatial data, machine learning, and backend engineering** — building systems that turn spatial data into something usable, explainable, and production-ready.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pooyan013" alt="Pooyan013" /></a> </p>
-
-- 🔭 I'm currently working on **Web GIS applications, geospatial databases with PostGIS, and explainable AI for air quality modeling.**
-
-- 🌱 I'm currently learning **Graph Neural Networks, and advanced geospatial analytics.**
-
-- 👯 I'm looking to collaborate on **Open-source Web GIS projects, geospatial AI research, and spatial data engineering**
-
-- 📫 How to reach me **t.me/Pooyan013**
-
-- ⚡ Fun fact **My favorite projects are the ones where GIS, AI, and software engineering meet.**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/Pooyan013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Pooyan013" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Pooyan013&label=Profile%20views&color=0e75b6&style=flat" alt="Pooyan013" />
+  <a href="https://t.me/Pooyan013"><img src="https://img.shields.io/badge/Telegram-t.me%2FPooyan013-26A5E4?logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/chartjs" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rabbitMQ" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pooyan013&show_icons=true&locale=en&layout=compact" alt="Pooyan013" /></p>
+### 🔭 What I'm working on
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pooyan013&show_icons=true&locale=en" alt="Pooyan013" /></p>
+- **PM2.5 air quality forecasting for Tehran** — a Graph Attention Network + GRU Seq2Seq architecture over 11 monitoring stations (2019–2022 hourly data), as part of my MSc thesis in GIS at K. N. Toosi University of Technology.
+- **Explainable AI for air pollution** — published research applying XAI methods (SHAP, GNNExplainer) to make spatial ML models interpretable rather than black-box.
+- **End-to-end backend systems** — Django + PostgreSQL/PostGIS + Docker, applied to both geospatial platforms and general-purpose products.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pooyan013&" alt="Pooyan013" /></p>
+### 🌱 Currently learning
 
+Graph Neural Networks, MLOps & model serving (FastAPI), and advanced spatial analytics.
+
+### 🎓 Background
+
+- MSc student, GIS — K. N. Toosi University of Technology
+- BSc, Surveying Engineering
+- Licensed drone pilot 🛰️
+- Teaching Python programming & web development at a vocational training center
+
+### 👯 Open to collaborating on
+
+Geospatial AI research, explainable ML, Web GIS platforms, and remote backend/data engineering work.
+
+### 📫 Reach me
+
+**Telegram:** [t.me/Pooyan013](https://t.me/Pooyan013)
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Core**
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=py,bash,html,css,js" />
+</p>
+
+**Backend & Infrastructure**
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=django,fastapi,postgres,docker,git,linux,nginx" />
+</p>
+
+**Machine Learning & Data**
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=pytorch" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=scikitlearn" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
+</p>
+
+**Geospatial**
+
+<p align="left">
+<img src="https://img.shields.io/badge/PostGIS-336791?logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/QGIS-589632?logo=qgis&logoColor=white" />
+<img src="https://img.shields.io/badge/ArcGIS%20Pro-2C7AC3?logo=esri&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pooyan013&show_icons=true&locale=en&theme=default" alt="Pooyan013 stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pooyan013&layout=compact&locale=en" alt="Pooyan013 top languages" height="165"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pooyan013" alt="Pooyan013 streak stats" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pooyan013&theme=flat&no-frame=true&row=1&column=6" alt="Pooyan013 trophies" /></a>
+</p>
+
+---
