@@ -14,7 +14,7 @@ I work at the intersection of **geospatial data, machine learning, and backend e
 ### 🔭 What I'm working on
 
 - **PM2.5 air quality forecasting for Tehran** — a Graph Attention Network + GRU Seq2Seq architecture over 11 monitoring stations (2019–2022 hourly data), as part of my MSc thesis in GIS at K. N. Toosi University of Technology.
-- **Explainable AI for air pollution** — published research applying XAI methods (SHAP, GNNExplainer) to make spatial ML models interpretable rather than black-box.
+- **Explainable AI for air pollution** — published research applying XAI methods (SHAP) to make spatial ML models interpretable rather than black-box.
 - **End-to-end backend systems** — Django + PostgreSQL/PostGIS + Docker, applied to both geospatial platforms and general-purpose products.
 
 ### 🌱 Currently learning
